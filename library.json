@@ -1,0 +1,32 @@
+{
+  "name": "MMJ_InkaBUS_AnalogOut",
+  "version": "1.0.0",
+  "description": "Arduino driver for DAC161S997 16-bit SPI DAC with 4-20 mA industrial current-loop output.",
+  "keywords": [
+    "arduino",
+    "esp32",
+    "dac",
+    "spi",
+    "analog-output",
+    "4-20ma",
+    "industrial",
+    "current-loop",
+    "dac161s997"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jorgesilvaramos/MMJ_InkaBUS_AnalogOut.git"
+  },
+  "authors": [
+    {
+      "name": "Jorge A. Silva",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jorgesilvaramos/MMJ_InkaBUS_AnalogOut",
+  "frameworks": [
+    "arduino"
+  ],
+  "platforms": "*"
+}
